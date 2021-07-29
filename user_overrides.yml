@@ -9,7 +9,7 @@ generate_checksums: true
 #site_name: mysitename.com
 
 # set desired boot domain
-boot_domain: boot.mysitename.com
+#boot_domain: boot.mysitename.com
 
 # set boot version
 #boot_version: "2.x"
